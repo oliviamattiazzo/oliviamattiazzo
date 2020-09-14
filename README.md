@@ -1,7 +1,7 @@
 ## Oh, hi! 👋
 
 <p align="center">
-![](https://github.com/oliviamattiazzo/master/hello.gif)
+![](https://github.com/oliviamattiazzo/oliviamattiazzo/blob/master/hello.gif)
 </p>
 
 My name is Olivia Mattiazzo and I'm a backend developer who loves Microsoft techonologies. I'm also a writer in my [personal tech blog](https://oliviamattiazzo.dev/) and a Pokémon illustrator on [my Instagram](https://www.instagram.com/oliviasarts/).
