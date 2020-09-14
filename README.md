@@ -32,3 +32,7 @@ In my free time, I like to draw, to knit, to play videogames, to read, to do yog
 
 [![GitHub](https://img.shields.io/github/followers/oliviamattiazzo?label=GitHub&style=social)](https://github.com/oliviamattiazzo) [![Twitter](https://img.shields.io/twitter/follow/oliviamattiazzo?style=social)](https://twitter.com/oliviamattiazzo) [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=@oliviasarts&color=ff69b4&logo=instagram)](https://www.instagram.com/oliviasarts/) [![Blog](https://img.shields.io/static/v1?label=Blog&message=oliviamattiazzo.dev&color=blueviolet&logo=wordpress)](https://oliviamattiazzo.dev/) [![Medium](https://img.shields.io/static/v1?label=Medium&message=@oliviamattiazzo&color=lightgray&logo=medium)](https://medium.com/@olimattiazzo)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Olivia%20Pachele%20Mattiazzo&color=blue&logo=linkedin)](https://www.linkedin.com/in/olivia-pachele-mattiazzo-433a8711b/)
+
+<p align="center">
+    <img src="https://github.com/oliviamattiazzo/oliviamattiazzo/blob/master/toystory.gif" />
+</p>
