@@ -34,5 +34,5 @@ In my free time, I like to draw, to knit, to play videogames, to read, to do yog
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Olivia%20Pachele%20Mattiazzo&color=blue&logo=linkedin)](https://www.linkedin.com/in/olivia-pachele-mattiazzo-433a8711b/)
 
 <p align="center">
-    <img src="https://github.com/oliviamattiazzo/oliviamattiazzo/blob/master/toystory.gif" />
+    <img width="300px" src="https://github.com/oliviamattiazzo/oliviamattiazzo/blob/master/toystory.gif" />
 </p>
