@@ -36,7 +36,7 @@ Professional networks:
 
 Personal networks:
 
-[![Twitter](https://img.shields.io/twitter/follow/oliviamattiazzo?style=social)](https://twitter.com/oliviamattiazzo) [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=@oliviasarts&color=ff69b4&logo=instagram)](https://www.instagram.com/oliviasarts/)
+[![Twitter](https://img.shields.io/twitter/follow/oliviamattiazzo?style=social)](https://twitter.com/oliviamattiazzo)
 
 Tech blog and personal texts:
 
