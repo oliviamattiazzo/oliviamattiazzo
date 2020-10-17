@@ -28,8 +28,6 @@ In my free time, I like to draw, to knit, to play videogames, to read, to do yog
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliviamattiazzo&theme=synthwave&layout=compact)](https://github.com/oliviamattiazzo/github-readme-stats)
 
----
-
 ## Let's be friends! 👯‍♀️
 
 Professional networks:
