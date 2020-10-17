@@ -29,8 +29,7 @@ In my free time, I like to draw, to knit, to play videogames, to read, to do yog
 ![Git Kraken](https://img.shields.io/badge/-Git_Kraken-green?style=flat-square&logo=gitkraken)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliviamattiazzo&theme=synthwave&layout=compact)](https://github.com/oliviamattiazzo/github-readme-stats)
 
-<p align="center">
-    <img width="300px" src="https://github.com/oliviamattiazzo/oliviamattiazzo/blob/master/toystory.gif" />
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviamattiazzo&theme=synthwave&layout=compact">
+
+<img width="300px" align="right" src="https://github.com/oliviamattiazzo/oliviamattiazzo/blob/master/toystory.gif" />
