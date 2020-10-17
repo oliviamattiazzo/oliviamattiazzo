@@ -30,6 +30,4 @@ In my free time, I like to draw, to knit, to play videogames, to read, to do yog
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviamattiazzo&theme=synthwave&layout=compact">
-
-<img width="300px" align="right" src="https://github.com/oliviamattiazzo/oliviamattiazzo/blob/master/toystory.gif" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviamattiazzo&theme=synthwave&layout=compact"/>
