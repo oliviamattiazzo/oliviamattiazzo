@@ -8,6 +8,9 @@ My name is Olivia Mattiazzo and I'm a backend developer who loves Microsoft tech
 
 In my free time, I like to draw, to knit, to play videogames, to read, to do yoga and to play ukulele. Not necessarily in this order :sweat_smile:
 
+### Let's be friends! 👯‍♀️
+[![GitHub](https://img.shields.io/github/followers/oliviamattiazzo?label=GitHub&style=social)](https://github.com/oliviamattiazzo) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Olivia%20Pachele%20Mattiazzo&color=blue&logo=linkedin)](https://www.linkedin.com/in/olivia-pachele-mattiazzo-433a8711b/) [![Twitter](https://img.shields.io/twitter/follow/oliviamattiazzo?style=social)](https://twitter.com/oliviamattiazzo) [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=@oliviasarts&color=ff69b4&logo=instagram)](https://www.instagram.com/oliviasarts/) [![Blog](https://img.shields.io/static/v1?label=Blog&message=oliviamattiazzo.dev&color=blueviolet&logo=wordpress)](https://oliviamattiazzo.dev/) [![Medium](https://img.shields.io/static/v1?label=Medium&message=@oliviamattiazzo&color=lightgray&logo=medium)](https://medium.com/@olimattiazzo)
+
 ## Status ✅
 
 - 🔭 I’m currently working on sharpening and evolving my .NET skills so I can become the senior developer I always wanted to be.
@@ -27,21 +30,6 @@ In my free time, I like to draw, to knit, to play videogames, to read, to do yog
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliviamattiazzo&theme=synthwave&layout=compact)](https://github.com/oliviamattiazzo/github-readme-stats)
-
-## Let's be friends! 👯‍♀️
-
-Professional networks:
-
-[![GitHub](https://img.shields.io/github/followers/oliviamattiazzo?label=GitHub&style=social)](https://github.com/oliviamattiazzo) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Olivia%20Pachele%20Mattiazzo&color=blue&logo=linkedin)](https://www.linkedin.com/in/olivia-pachele-mattiazzo-433a8711b/)
-
-Personal networks:
-
-[![Twitter](https://img.shields.io/twitter/follow/oliviamattiazzo?style=social)](https://twitter.com/oliviamattiazzo)
-
-Tech blog and personal texts:
-
-[![Blog](https://img.shields.io/static/v1?label=Blog&message=oliviamattiazzo.dev&color=blueviolet&logo=wordpress)](https://oliviamattiazzo.dev/) [![Medium](https://img.shields.io/static/v1?label=Medium&message=@oliviamattiazzo&color=lightgray&logo=medium)](https://medium.com/@olimattiazzo)
-
 
 <p align="center">
     <img width="300px" src="https://github.com/oliviamattiazzo/oliviamattiazzo/blob/master/toystory.gif" />
