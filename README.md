@@ -4,7 +4,7 @@
     <img width="200px" src="https://github.com/oliviamattiazzo/oliviamattiazzo/blob/master/hello.gif" />
 </p>
 
-My name is Olivia Mattiazzo and I'm a backend developer who loves Microsoft techonologies. I'm also a writer in my [personal tech blog](https://oliviamattiazzo.dev/) and a Pokémon illustrator on [my Instagram](https://www.instagram.com/oliviasarts/).
+My name is Olivia Mattiazzo and I'm a backend developer who loves Microsoft techonologies. I'm also a writer in my [personal tech blog](https://oliviamattiazzo.dev/).
 
 In my free time, I like to draw, to knit, to play videogames, to read, to do yoga and to play ukulele. Not necessarily in this order :sweat_smile:
 
