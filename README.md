@@ -15,11 +15,11 @@ In my free time, I like to draw, to knit, to play videogames, to read, to do yog
 
 ## 🚨 Latests blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Et Cetera #1](https://oliviamattiazzo.dev/2020/11/23/et-cetera-1/)
 - [Simular uma request com HttpSimulator](https://oliviamattiazzo.dev/2020/11/14/simular-request-httpsimulator/)
 - [Um novo projeto pessoal: El Automatizador de Pronombres!](https://oliviamattiazzo.dev/2020/10/16/projeto-pessoal-automatizador-pronombres/)
 - [Minhas dicas para aprender novos idiomas](https://oliviamattiazzo.dev/2020/10/07/minhas-dicas-para-aprender-novos-idiomas/)
 - [O que é o tipo dynamic?](https://oliviamattiazzo.dev/2020/09/18/o-que-e-tipo-dynamic/)
-- [Twitter API e C#: um tutorial – parte 3](https://oliviamattiazzo.dev/2020/09/07/tutorial-twitter-api-csharp-parte3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👩‍💻 Technologies I like and work with 
