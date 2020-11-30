@@ -15,11 +15,11 @@ In my free time, I like to draw, to knit, to play videogames, to read, to do yog
 
 ## 🚨 Latests blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Et Cetera #2](https://oliviamattiazzo.dev/2020/11/30/et-cetera-2/)
 - [Artigos para começar com Node.js](https://oliviamattiazzo.dev/2020/11/27/artigos-comecar-nodejs/)
 - [Et Cetera #1](https://oliviamattiazzo.dev/2020/11/23/et-cetera-1/)
 - [Simular uma request com HttpSimulator](https://oliviamattiazzo.dev/2020/11/14/simular-request-httpsimulator/)
 - [Um novo projeto pessoal: El Automatizador de Pronombres!](https://oliviamattiazzo.dev/2020/10/16/projeto-pessoal-automatizador-pronombres/)
-- [Minhas dicas para aprender novos idiomas](https://oliviamattiazzo.dev/2020/10/07/minhas-dicas-para-aprender-novos-idiomas/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👩‍💻 Technologies I like and work with 
