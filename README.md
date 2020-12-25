@@ -15,11 +15,11 @@ In my free time, I like to draw, to knit, to play videogames, to read, to do yog
 
 ## 🚨 Latests blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meu 2020: credo, que delícia](https://oliviamattiazzo.dev/2020/12/25/meu-2020-credo-que-delicia/)
 - [Et Cetera #5](https://oliviamattiazzo.dev/2020/12/21/et-cetera-5/)
 - [Et Cetera #4](https://oliviamattiazzo.dev/2020/12/14/et-cetera-4/)
 - [Centralizar conteúdo embed em posts do WordPress](https://oliviamattiazzo.dev/2020/12/11/centralizar-conteudo-embed-posts-wordpress/)
 - [Et Cetera #3](https://oliviamattiazzo.dev/2020/12/07/et-cetera-3/)
-- [Et Cetera #2](https://oliviamattiazzo.dev/2020/11/30/et-cetera-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👩‍💻 Technologies I like and work with 
