@@ -2,7 +2,7 @@
 
 My name is Olivia Mattiazzo and I'm a backend developer who loves Microsoft techonologies. I'm also a writer in my [personal tech blog](https://oliviamattiazzo.dev/).
 
-In my free time, I like to draw, to knit, to play videogames, to read, to do yoga and to play ukulele. Not necessarily in this order :sweat_smile:
+In my free time, I like to play guitar, to read and to play videogames and MTG. Not necessarily in this order :sweat_smile:
 
 [![Twitter](https://img.shields.io/twitter/follow/oliviamattiazzo?style=social)](https://twitter.com/oliviamattiazzo) [![Blog](https://img.shields.io/static/v1?label=Blog&message=oliviamattiazzo.dev&color=blueviolet&logo=wordpress)](https://oliviamattiazzo.dev/) [![GitHub](https://img.shields.io/github/followers/oliviamattiazzo?label=GitHub&style=social)](https://github.com/oliviamattiazzo) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Olivia%20Pachele%20Mattiazzo&color=blue&logo=linkedin)](https://www.linkedin.com/in/oliviamattiazzo/)
 
