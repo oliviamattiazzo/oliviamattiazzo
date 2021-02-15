@@ -36,3 +36,6 @@ In my free time, I like to play guitar, to read and to play videogames and MTG. 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviamattiazzo&theme=synthwave&layout=compact">
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
