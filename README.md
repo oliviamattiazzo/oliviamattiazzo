@@ -37,6 +37,8 @@ In my free time, I like to play guitar, to read and to play videogames and MTG. 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviamattiazzo&theme=synthwave&layout=compact">
 </p>
 
+### What I've been using these days...
+<p align="center">
 <!--START_SECTION:waka-->
 ```text
 CSS          6 hrs 38 mins   ████████▒░░░░░░░░░░░░░░░░   33.71 % 
@@ -46,3 +48,4 @@ Other        2 hrs 25 mins   ███░░░░░░░░░░░░░░
 JavaScript   1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 ```
 <!--END_SECTION:waka-->
+</p>
