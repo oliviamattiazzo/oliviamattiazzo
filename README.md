@@ -39,10 +39,9 @@ In my free time, I like to play guitar, to read and to play videogames and MTG. 
 
 <!--START_SECTION:waka-->
 ```text
-HTML    4 hrs 59 mins   ██████████░░░░░░░░░░░░░░░   40.10 % 
-CSS     4 hrs 36 mins   █████████▒░░░░░░░░░░░░░░░   36.92 % 
-C       1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-C#      1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Other   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+HTML    4 hrs 19 mins   █████████████▓░░░░░░░░░░░   54.80 % 
+CSS     2 hrs           ██████▒░░░░░░░░░░░░░░░░░░   25.59 % 
+C#      1 hr 1 min      ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Other   30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 ```
 <!--END_SECTION:waka-->
