@@ -15,11 +15,11 @@ In my free time, I like to play guitar, to read and to play videogames and MTG. 
 
 ## 🚨 Latests blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Atalhos de teclado para desenvolvedores .NET](https://oliviamattiazzo.dev/2021/07/06/atalhos-teclado-para-desenvolvedores-dotnet/)
 - [Algumas questões sobre o Clean Code – parte 1](https://oliviamattiazzo.dev/2021/03/01/algumas-questoes-sobre-clean-code-1/)
 - [Lições (re)aprendidas com o HackerRank](https://oliviamattiazzo.dev/2021/02/15/licoes-reaprendidas-com-hackerrank/)
 - [Quando foi que descansar ficou difícil?](https://oliviamattiazzo.dev/2021/01/18/quando-descansar-ficou-dificil/)
 - [Et Cetera #6](https://oliviamattiazzo.dev/2020/12/28/et-cetera-6/)
-- [Meu 2020: credo, que delícia](https://oliviamattiazzo.dev/2020/12/25/meu-2020-credo-que-delicia/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👩‍💻 Technologies I like and work with 
