@@ -39,10 +39,10 @@ In my free time, I like to play guitar, to read and to play videogames and MTG. 
 
 <!--START_SECTION:waka-->
 ```text
-C       7 hrs 10 mins   ██████████████▒░░░░░░░░░░   57.17 % 
-C#      1 hr 46 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Other   1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-YAML    46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-XSLT    40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+C       6 hrs 36 mins   ███████████████░░░░░░░░░░   59.76 % 
+YAML    1 hr 18 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+XSLT    40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Other   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+C#      36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 ```
 <!--END_SECTION:waka-->
