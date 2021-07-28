@@ -38,4 +38,6 @@ In my free time, I like to play guitar, to read and to play videogames and MTG. 
 </p>
 
 <!--START_SECTION:waka-->
+```text
+```
 <!--END_SECTION:waka-->
