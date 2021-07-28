@@ -37,12 +37,4 @@ In my free time, I like to play guitar, to read and to play videogames and MTG. 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviamattiazzo&theme=synthwave&layout=compact">
 </p>
 
-<!--START_SECTION:waka-->
-```text
-YAML     1 hr 57 mins    ██████████▒░░░░░░░░░░░░░░   41.25 % 
-C        38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Ruby     33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-C#       31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Docker   30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-```
-<!--END_SECTION:waka-->
+[![oliviamattiazzo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oliviamattiazzo)](https://github.com/anuraghazra/github-readme-stats)
