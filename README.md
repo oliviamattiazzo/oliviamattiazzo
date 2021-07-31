@@ -39,10 +39,10 @@ In my free time, I like to play guitar, to read and to play videogames and MTG. 
 
 <!--START_SECTION:waka-->
 ```text
-YAML     1 hr 26 mins    ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-C        1 hr 19 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.39 % 
-C#       39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Ruby     38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Docker   25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+C        1 hr 29 mins    ████████▒░░░░░░░░░░░░░░░░   33.11 % 
+YAML     54 mins         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+C#       38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Docker   22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Ruby     21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 ```
 <!--END_SECTION:waka-->
