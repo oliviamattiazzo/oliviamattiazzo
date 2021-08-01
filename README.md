@@ -32,6 +32,8 @@ In my free time, I like to play guitar, to read and to play videogames and MTG. 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-blue?style=flat-square&logo=visual-studio-code)
 ![Git Kraken](https://img.shields.io/badge/-Git_Kraken-green?style=flat-square&logo=gitkraken)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=384d54)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white)
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviamattiazzo&theme=synthwave&layout=compact">
