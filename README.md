@@ -6,13 +6,6 @@ In my free time, I like to play guitar, to read and to play videogames and MTG. 
 
 [![Twitter](https://img.shields.io/twitter/follow/oliviamattiazzo?style=social)](https://twitter.com/oliviamattiazzo) [![Blog](https://img.shields.io/static/v1?label=Blog&message=oliviamattiazzo.dev&color=blueviolet&logo=wordpress)](https://oliviamattiazzo.dev/) [![GitHub](https://img.shields.io/github/followers/oliviamattiazzo?label=GitHub&style=social)](https://github.com/oliviamattiazzo) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Olivia%20Pachele%20Mattiazzo&color=blue&logo=linkedin)](https://www.linkedin.com/in/oliviamattiazzo/)
 
-## ✅ Status 
-
-- 🔭 I’m currently working on sharpening and evolving my .NET skills so I can become the senior developer I always wanted to be.
-- 🌱 I'm also learning more about Javascript, because I kinda enjoy the language, even though I'm not so good coding with it (yet!)
-- 😄 My pronouns are she / her.
-- ⚡ Fun fact: I really love learning new idioms! I already speak my native Portuguese, a fluent English, a intermediate Spanish and I have some fundaments of German (it's my next objective, btw)
-
 ## 🚨 Latests blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Um ambiente de desenvolvimento Rails com Docker](https://oliviamattiazzo.dev/2021/07/28/um-ambiente-de-desenvolvimento-rails-com-docker/)
