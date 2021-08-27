@@ -34,10 +34,10 @@ In my free time, I like to play guitar, to read and to play videogames and MTG. 
 
 <!--START_SECTION:waka-->
 ```text
-VB.NET   2 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   28.45 % 
-YAML     1 hr 27 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.83 % 
-C        1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.74 % 
-XML      1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Other    48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+YAML     1 hr 27 mins    ████████▒░░░░░░░░░░░░░░░░   32.86 % 
+VB.NET   1 hr 8 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.86 % 
+C#       38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+XML      35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Other    22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 ```
 <!--END_SECTION:waka-->
