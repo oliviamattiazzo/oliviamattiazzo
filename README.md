@@ -8,11 +8,11 @@ In my free time, I like to play guitar, to read and to play videogames and MTG. 
 
 ## 🚨 Latests blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Terapia em grupo – sobre criação de conteúdo](https://oliviamattiazzo.dev/2021/09/20/terapia-em-grupo-criacao-de-conteudo/)
 - [Componentes do Kubernetes – CronJobs e Secrets](https://oliviamattiazzo.dev/2021/08/30/componentes-kubernetes-cronjobs-secrets/)
 - [Entendendo componentes do Kubernetes – Volumes](https://oliviamattiazzo.dev/2021/08/16/entendendo-componentes-kubernetes-volumes/)
 - [Um ambiente de desenvolvimento Rails com Docker](https://oliviamattiazzo.dev/2021/07/28/um-ambiente-de-desenvolvimento-rails-com-docker/)
 - [Atalhos de teclado para desenvolvedores .NET](https://oliviamattiazzo.dev/2021/07/06/atalhos-teclado-para-desenvolvedores-dotnet/)
-- [Algumas questões sobre o Clean Code – parte 1](https://oliviamattiazzo.dev/2021/03/01/algumas-questoes-sobre-clean-code-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👩‍💻 Technologies I like and work with 
