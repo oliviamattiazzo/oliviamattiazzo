@@ -8,11 +8,11 @@ In my free time, I like to play guitar, to read and to play videogames and MTG. 
 
 ## 🚨 Latests blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rails Helpers – o que são e para que servem?](https://oliviamattiazzo.dev/2023/04/02/rails-helpers/)
 - [Uma gem na roda: syntax_suggest](https://oliviamattiazzo.dev/2022/12/23/uma-gem-na-roda-syntax-suggest/)
 - [&lpar;Re&rpar;tomar o hábito da leitura](https://oliviamattiazzo.dev/2022/12/12/retomar-o-habito-da-leitura/)
 - [Um estudo sobre o Git Rebase](https://oliviamattiazzo.dev/2022/11/13/estudo-sobre-git-rebase/)
 - [A maneira SMART de escrever objetivos](https://oliviamattiazzo.dev/2022/09/04/objetivos-smart/)
-- [Terapia em grupo – sobre criação de conteúdo](https://oliviamattiazzo.dev/2021/09/20/terapia-em-grupo-criacao-de-conteudo/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👩‍💻 Technologies I like and work with 
