@@ -35,8 +35,8 @@ In my free time, I like to play guitar, to read and to play videogames and MTG. 
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 hrs 24 mins   ███████████████████████░░   91.87 %
-Ruby         23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+JavaScript   4 hrs 31 mins   ████████████████████████▒   97.53 %
+Ruby         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
