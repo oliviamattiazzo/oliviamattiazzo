@@ -7,7 +7,7 @@ In my free time, you can probably find me reading fiction books, playing D&D wit
 ## Where to find me 🪂
 * Learning in public at [oliviamattiazzo.dev](https://oliviamattiazzo.dev/) (PT-BR) and [dev.to](https://dev.to/oliviamattiazzo) (EN) 💡
 * Being more serious at [LinkedIn](https://www.linkedin.com/in/oliviamattiazzo) 👩‍💼
-* Talking about books and other stuff at [Instagram](https://www.instagram.com/aquariocomvirgem/)
+* Talking about books and other stuff at [Instagram](https://www.instagram.com/aquariocomvirgem/) 📚
 
 ## 🚨 Latests blog posts
 <!-- BLOG-POST-LIST:START -->
