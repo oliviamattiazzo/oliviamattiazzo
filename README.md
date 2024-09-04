@@ -1,10 +1,13 @@
-## Oh, hi! 👋
+## Oh, hi! I'm Olivia 👋
 
-My name is Olivia Mattiazzo and I'm a backend developer who loves Microsoft techonologies. I'm also a writer in my [personal tech blog](https://oliviamattiazzo.dev/).
+I'm a passionate **software developer** and **M.Sc.'s student** with a strong focus on **problem-solving**. I consider myself **technology-agnostic**, always choosing the best tools for the job rather than sticking to any particular stack. As an **eternal learner**, I'm constantly exploring new technologies and methodologies to expand my skill set. Sharing knowledge is something I deeply value, which is why I regularly post insights and tutorials on my **blog**. I'm always open to collaboration and eager to contribute to the developer community!
 
-In my free time, I like to play guitar, to read and to play videogames and MTG. Not necessarily in this order :sweat_smile:
+In my free time, you can probably find me reading fiction books, playing D&D with my friends and planning my next trip!
 
-[![Twitter](https://img.shields.io/twitter/follow/oliviamattiazzo?style=social)](https://twitter.com/oliviamattiazzo) [![Blog](https://img.shields.io/static/v1?label=Blog&message=oliviamattiazzo.dev&color=blueviolet&logo=wordpress)](https://oliviamattiazzo.dev/) [![GitHub](https://img.shields.io/github/followers/oliviamattiazzo?label=GitHub&style=social)](https://github.com/oliviamattiazzo) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Olivia%20Pachele%20Mattiazzo&color=blue&logo=linkedin)](https://www.linkedin.com/in/oliviamattiazzo/)
+## Where to find me 🪂
+* Learning in public at [oliviamattiazzo.dev](https://oliviamattiazzo.dev/) (PT-BR) and [dev.to](https://dev.to/oliviamattiazzo) (EN) 💡
+* Being more serious at [LinkedIn](https://www.linkedin.com/in/oliviamattiazzo) 👩‍💼
+* Talking about books and other stuff at [Instagram](https://www.instagram.com/aquariocomvirgem/)
 
 ## 🚨 Latests blog posts
 <!-- BLOG-POST-LIST:START -->
