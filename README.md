@@ -11,9 +11,9 @@ In my free time, you can probably find me reading fiction books, playing D&D wit
 
 ## 🚨 Latests blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Qual é a importância dos Code Reviews?](https://oliviamattiazzo.dev/2024/09/08/qual-e-a-importancia-dos-code-reviews/)
 - [2023: revendo meus papéis](https://oliviamattiazzo.dev/2023/12/06/2023-revendo-meus-papeis/)
 - [Glass ceiling: um teto de vidro todo nosso](https://oliviamattiazzo.dev/2023/07/02/glass-ceiling-um-teto-de-vidro-todo-nosso/)
 - [Rails Helpers – o que são e para que servem?](https://oliviamattiazzo.dev/2023/04/02/rails-helpers/)
 - [Uma gem na roda: syntax_suggest](https://oliviamattiazzo.dev/2022/12/23/uma-gem-na-roda-syntax-suggest/)
-- [&lpar;Re&rpar;tomar o hábito da leitura](https://oliviamattiazzo.dev/2022/12/12/retomar-o-habito-da-leitura/)
 <!-- BLOG-POST-LIST:END -->
