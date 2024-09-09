@@ -5,7 +5,8 @@ I'm a passionate **software developer** and **M.Sc.'s student** with a strong fo
 In my free time, you can probably find me reading fiction books, playing D&D with my friends and planning my next trip!
 
 ## Where to find me 🪂
-* Learning in public at [oliviamattiazzo.dev](https://oliviamattiazzo.dev/) (PT-BR) and [dev.to](https://dev.to/oliviamattiazzo) (EN) 💡
+* Learning in public here and in [CodePen](https://codepen.io/oliviamattiazzo) 🏗️
+* Writing about tech at [oliviamattiazzo.dev](https://oliviamattiazzo.dev/) (PT-BR) and [dev.to](https://dev.to/oliviamattiazzo) (EN) 💡
 * Being more serious at [LinkedIn](https://www.linkedin.com/in/oliviamattiazzo) 👩‍💼
 * Talking about books and other stuff at [Instagram](https://www.instagram.com/aquariocomvirgem/) 📚
 
