@@ -12,7 +12,7 @@ In my free time, you can probably find me reading fiction books, playing D&D wit
 * Sharing some day-to-day insights at [Ko-Fi](https://ko-fi.com/oliviamattiazzo) 🔮
 * Talking about books and other stuff at [Instagram](https://www.instagram.com/aquariocomvirgem/) 📚
 
-* [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q4I8JOP)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q4I8JOP)
 
 ## 🚨 Latests blog posts
 <!-- BLOG-POST-LIST:START -->
