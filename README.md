@@ -5,10 +5,14 @@ I'm a passionate **software developer** and **M.Sc.'s student** with a strong fo
 In my free time, you can probably find me reading fiction books, playing D&D with my friends and planning my next trip!
 
 ## Where to find me 🪂
-* Learning in public here and in [CodePen](https://codepen.io/oliviamattiazzo) 🏗️
-* Writing about tech at [oliviamattiazzo.dev](https://oliviamattiazzo.dev/) (PT-BR) and [dev.to](https://dev.to/oliviamattiazzo) (EN) 💡
+
 * Being more serious at [LinkedIn](https://www.linkedin.com/in/oliviamattiazzo) 👩‍💼
+* Writing about tech at [oliviamattiazzo.dev](https://oliviamattiazzo.dev/) (PT-BR) and [dev.to](https://dev.to/oliviamattiazzo) (EN) 💡
+* Learning in public here and in [CodePen](https://codepen.io/oliviamattiazzo) 🏗️
+* Sharing some day-to-day insights at [Ko-Fi](https://ko-fi.com/oliviamattiazzo) 🔮
 * Talking about books and other stuff at [Instagram](https://www.instagram.com/aquariocomvirgem/) 📚
+
+* [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q4I8JOP)
 
 ## 🚨 Latests blog posts
 <!-- BLOG-POST-LIST:START -->
